@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17559005631",
+    "project_id": "gameminesweeper-f1093",
+    "storage_bucket": "gameminesweeper-f1093.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17559005631:android:a5e9beee67bf09102a590a",
+        "android_client_info": {
+          "package_name": "com.example.mine_sweeper_games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17559005631-9c1plratn9j7bi2dd6bsnevid9o8j6n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mine_sweeper_games",
+            "certificate_hash": "75d90862a29016ec31ede26d2478de84db2568c5"
+          }
+        },
+        {
+          "client_id": "17559005631-vfgvd8g057rd74bopm9bp893nc13hb5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0PTwTS6KnQ-5X9mf4Azbw9yC_KtP1z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17559005631-vfgvd8g057rd74bopm9bp893nc13hb5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

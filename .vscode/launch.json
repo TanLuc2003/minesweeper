@@ -1,0 +1,108 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "$R4MW7VK",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$R4MW7VK",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$R4MW7VK (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$R4MW7VK",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$R4MW7VK (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$R4MW7VK",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$R9RUM8V",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$R9RUM8V",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$R9RUM8V (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$R9RUM8V",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$R9RUM8V (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$R9RUM8V",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RBGCGSD",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$RBGCGSD",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RBGCGSD (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$RBGCGSD",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RBGCGSD (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$RBGCGSD",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RM3IZYS",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$RM3IZYS",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RM3IZYS (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$RM3IZYS",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RM3IZYS (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-690908576-772904464-3115924562-1001\\$RM3IZYS",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "mine_sweeper_games",
+            "cwd": "Users\\PC\\Downloads\\mine_sweeper_games",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mine_sweeper_games (profile mode)",
+            "cwd": "Users\\PC\\Downloads\\mine_sweeper_games",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mine_sweeper_games (release mode)",
+            "cwd": "Users\\PC\\Downloads\\mine_sweeper_games",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
